@@ -21,7 +21,7 @@
 ---
 
 ## 📂 Proyectos destacados
-✨ *(Aquí pondrás tus repos más pulidos, con links directos cuando los subas)*  
+✨ *(Aquí van mis repos)*  
 - 🎨 Portafolio personal – [En construcción 🚧]  
 - 📘 Landing pages para infonegocios  
 - ⚡ Experimentos con CSS y animaciones  
