@@ -30,7 +30,7 @@
 
 ## 🤝 Conecta conmigo
 - 🌐 [sntg.studio](https://github.com/sntg-studio) *(cuando esté online)*  
-- 📩 [Tu correo o contacto profesional]  
+- 📩 [Escribeme!](milthonagudelo1607@gmail.com) 
 - 💬 Siempre abierto a colaborar, aprender y crear cosas que dejen huella.  
 
 ---
