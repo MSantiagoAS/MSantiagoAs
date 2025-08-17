@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago (Santi en confianza)
 
-<!--
-**MSantiagoAS/MSantiagoAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas | Desarrollador web en construcción  
+🚀 Fundador de **sntg.studio** – creando productos digitales funcionales, visuales y sin humo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mí
+- 🎯 Mi meta: construir un portafolio sólido que hable por mí.  
+- 🛠️ Enfoque en **desarrollo web**, infonegocios y productos digitales.  
+- 📚 Aprendiendo cada día CSS, JS y todo lo que me acerque a ser **Full Stack**.  
+- 🌱 Busco que mi trabajo no solo se vea bien, sino que **funcione y aporte valor real**.  
+
+---
+
+## ⚙️ Stack y herramientas
+- **Frontend:** HTML, CSS, JavaScript (vanilla)  
+- **Aprendiendo:** React, Tailwind, Node.js  
+- **Extras:** Git, GitHub, Figma  
+
+---
+
+## 📂 Proyectos destacados
+✨ *(Aquí pondrás tus repos más pulidos, con links directos cuando los subas)*  
+- 🎨 Portafolio personal – [En construcción 🚧]  
+- 📘 Landing pages para infonegocios  
+- ⚡ Experimentos con CSS y animaciones  
+
+---
+
+## 🤝 Conecta conmigo
+- 🌐 [sntg.studio](https://github.com/sntg-studio) *(cuando esté online)*  
+- 📩 [Tu correo o contacto profesional]  
+- 💬 Siempre abierto a colaborar, aprender y crear cosas que dejen huella.  
+
+---
+
+⭐️ **Fun fact:** vengo del campo y quiero demostrar que se puede llegar lejos con disciplina, visión y buen código.
